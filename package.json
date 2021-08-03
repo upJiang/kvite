@@ -1,0 +1,16 @@
+{
+    "name": "kvite",
+    "version": "0.0.1",
+    "license": "ISC",
+    "scripts": {
+        "dev": "node ./kvite.js"
+    },
+    "dependencies": {
+        "vue": "^3.0.5"
+    },
+    "devDependencies": {
+        "@vue/compiler-sfc": "^3.0.5",
+        "koa": "^2.13.1",
+        "opn": "^6.0.0"
+    }
+}
